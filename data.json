@@ -1,0 +1,17 @@
+{
+"type": "FeatureCollection",
+"name": "pts",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "uuid": 1, "name": "atomm", "last_modified_time": "2024-11-05T18:42:07.778" }, "geometry": { "type": "Point", "coordinates": [ -116.015625, 65.658274519826648 ] } },
+{ "type": "Feature", "properties": { "uuid": 2, "name": "sub", "last_modified_time": "2024-11-05T18:57:04.638" }, "geometry": { "type": "Point", "coordinates": [ -112.8515625, 65.512962553294926 ] } },
+{ "type": "Feature", "properties": { "uuid": 3, "name": "name", "last_modified_time": "2024-11-05T19:00:31.286" }, "geometry": { "type": "Point", "coordinates": [ -115.136718750000014, 64.091407522623115 ] } },
+{ "type": "Feature", "properties": { "uuid": 4, "name": "c", "last_modified_time": "2024-11-05T19:03:59.571" }, "geometry": { "type": "Point", "coordinates": [ -113.90625, 66.231457478625714 ] } },
+{ "type": "Feature", "properties": { "uuid": 5, "name": "sub", "last_modified_time": "2024-11-05T19:25:32.532" }, "geometry": { "type": "Point", "coordinates": [ -113.203125, 64.774125312928732 ] } },
+{ "type": "Feature", "properties": { "uuid": 6, "name": null, "last_modified_time": "2024-11-05T19:35:07.481" }, "geometry": { "type": "Point", "coordinates": [ -111.269531250000014, 66.231457478625714 ] } },
+{ "type": "Feature", "properties": { "uuid": 7, "name": "bing", "last_modified_time": "2024-11-05T19:40:19.550" }, "geometry": { "type": "Point", "coordinates": [ -116.367187500000014, 63.626744644753302 ] } },
+{ "type": "Feature", "properties": { "uuid": 8, "name": null, "last_modified_time": "2024-11-05T19:47:56.646" }, "geometry": { "type": "Point", "coordinates": [ -114.257812500000014, 65.366836892263194 ] } },
+{ "type": "Feature", "properties": { "uuid": 9, "name": "sub", "last_modified_time": "2024-11-05T19:53:13.095" }, "geometry": { "type": "Point", "coordinates": [ -114.43359375, 66.302205475998448 ] } },
+{ "type": "Feature", "properties": { "uuid": 10, "name": "bing", "last_modified_time": "2024-11-05T20:10:27.955" }, "geometry": { "type": "Point", "coordinates": [ -115.664062499999972, 64.699105442047653 ] } }
+]
+}
